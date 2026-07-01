@@ -317,7 +317,7 @@ LogKnot development follows these principles:
 Security feedback can be shared privately through:
 
 ```text
-security@logknot.dev
+security@logknot.com
 ```
 
 Please do not open public GitHub issues for suspected vulnerabilities.
